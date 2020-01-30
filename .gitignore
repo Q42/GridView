@@ -26,3 +26,4 @@ Pods/
 
 # SPM
 .build
+.swiftpm
